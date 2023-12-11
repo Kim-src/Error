@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Google Colab -->
-## ✅  G      oogle Colab
+## ✅ Google Colab
 ### "TypeError: 'str' object is not callable"
 ###### 오류 발생일 : December 11, 2023
 
