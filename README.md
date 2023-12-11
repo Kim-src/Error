@@ -18,6 +18,7 @@
 > 그런데 변수 출력(print) 과정에서 갑자기 위와 같은 TypeError가 발생하였습니다.  
 > 막 출력하려던 변수뿐만 아니라 이전에 이미 선언 및 출력을 마친 변수들까지 모두 오류 상황이 되었습니다.
 > <br/>
+> 
 > ![해당 오류](https://github.com/Kim-src/Errors/assets/150884526/c361ba6a-49bf-4aa1-9e0a-79aca87ac743)
 
 <br/>
