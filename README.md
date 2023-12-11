@@ -38,5 +38,5 @@
 > ``` Python
 > print = 1
 > ```
-> 일부러 위와 같이 출력문을 변수로 사용하면 다시 "TypeError: 'str' object is not callable" 오류가 발생됩니다.  
+> 고의로 위와 같이 출력문을 변수로 사용하면 다시 "TypeError: 'str' object is not callable" 오류가 발생됩니다.  
 > 마찬가지로 ```del print```를 입력하면 프로젝트 내 모든 출력문(print)이 정상 동작되는 것을 확인하실 수 있습니다.  
