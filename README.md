@@ -29,7 +29,7 @@
 > 
 
 
-
+> <p align = "center"><img src = "https://github.com/Kim-src/Error/assets/150884526/2f80acde-5516-43a0-ad9d-3f922f469267" width = "500px"></p>
 <br/>
 
 
