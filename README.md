@@ -1,6 +1,5 @@
 <!-- Name -->
 # <p align = center>😊 Error Master 😊</p>
-
 <!-- Update Date -->
 ###### <p align = right>Update Date : December 15, 2023</p>
 
@@ -24,12 +23,21 @@
 
 <br/>
 
+
 ### 📌 해결 방법
 > 
 
-<!-- Update Date -->
-###### <p align = right>Update Date : December 11, 2023</p>
 
+
+<br/>
+
+
+
+
+***
+
+<br/>
+<br/>
 <br/>
 
 <!-- Title -->
@@ -46,7 +54,7 @@
 > 
 > <br/>
 > 
-> ![해당 오류](https://github.com/Kim-src/Errors/assets/150884526/c361ba6a-49bf-4aa1-9e0a-79aca87ac743)  
+> <p align = "center"><img src = "https://github.com/Kim-src/Errors/assets/150884526/c361ba6a-49bf-4aa1-9e0a-79aca87ac743" width = "500px"></p>
 
 <br/>
 
