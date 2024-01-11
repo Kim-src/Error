@@ -1,3 +1,9 @@
+### 🎁 작성자 Profile
+> - [작성자의 Velog Blog](https://velog.io/@kim-src/series)
+> - [작성자의 LinkedIn Profile](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
+
+<br/>
+
 <!-- Name -->
 # <p align = center>😊 Error Master 😊</p>
 <!-- Update Date -->
